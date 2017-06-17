@@ -1,0 +1,15 @@
+
+.imageblock {
+	float: left; 
+	margin: 15px;
+}
+
+body {
+	background-image: url("https://cdn.thinglink.me/api/image/518834508590481408/1240/10/scaletowidth");
+	background-size: cover;
+	
+	font-family: 'Sigmar One', cursive;
+}
+
+h1 {
+	font-family: 'Sigmar One', cursive;
